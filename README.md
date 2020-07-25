@@ -1,2 +1,2 @@
-# react-graphql-001
+# react-graphql-strapi
 Created with CodeSandbox
